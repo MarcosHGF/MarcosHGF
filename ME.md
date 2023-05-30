@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marcos
+- 👀 I’m interested in programming
+- 🌱 I’m currently studying computer science
