@@ -1,6 +1,13 @@
 [![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)]()
 ### **Hi 👋, I'm Marcos**
-<h3 align="center">A computer science student from Brazil</h3>
+Hello! I'm a 21 years old guy and a Data/IA enthusiast for the last 3 years.
+
+I am currently a AI Engineer, Computer Science student and researcher at the Pontifical Catholic University of Minas Gerais.
+
+🔺 I'm based in Minas Gerais, Brazil.<br />
+🧠 I'm a eternal student in Python, SQL, C Language, Machine Learning and Statistics.<br />
+🌏 I'm open to collaborating on projects and change the world through data.<br />
+📚 I can speak Portuguese and English with you.<br />
 
 ---
 
